@@ -36,10 +36,6 @@
 
         .slide.active {
             display: block;
-            padding: 30px;
-            border-radius: 15px;
-            background-size: cover;
-            background-position: center;
                 }
         @keyframes slideIn {
             from { opacity: 0; transform: translateX(50px); }
