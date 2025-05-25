@@ -11,6 +11,7 @@
             height: 100vh;
         }
 
+
         .presentation-container {
             position: relative;
             width: 100%;
@@ -35,7 +36,6 @@
 
         .slide.active {
             display: block;
-            background: url('https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?q=80&w=1740&auto=format&fit=crop');
             padding: 30px;
             border-radius: 15px;
             background-size: cover;
