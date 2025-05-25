@@ -1,1 +1,0 @@
-# hackathon2-pitch
